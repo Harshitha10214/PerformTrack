@@ -1,0 +1,722 @@
+[
+  {
+    "competency_id": "COMP-000001",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000006",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000006",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000006",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000007",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000007",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000007",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000008",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000008",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000008",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000010",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000010",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000010",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000011",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000011",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000011",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000012",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000012",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000012",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000013",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000013",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000013",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000014",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000014",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000014",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000015",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000015",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000015",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000016",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000016",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000016",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000017",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000017",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000017",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000019",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000019",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000019",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000020",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000020",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000020",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000021",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000021",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000021",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000022",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000022",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000022",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000023",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000023",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000023",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000024",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000024",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000024",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000025",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000025",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000025",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000026",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000026",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000026",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000028",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000028",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000028",
+    "proficiency": "4"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000029",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000029",
+    "proficiency": "3"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000029",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000030",
+    "proficiency": "5"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000030",
+    "proficiency": "2"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000030",
+    "proficiency": "5"
+  }
+]

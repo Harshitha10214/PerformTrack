@@ -1,0 +1,4502 @@
+[
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "id": "MGR-000001",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "id": "MGR-000002",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "id": "MGR-000003",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "id": "MGR-000004",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "id": "MGR-000005",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000006",
+    "id": "MGR-000006",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000007",
+    "id": "MGR-000007",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000008",
+    "id": "MGR-000008",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000009",
+    "id": "MGR-000009",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000010",
+    "id": "MGR-000010",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000011",
+    "id": "MGR-000011",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000012",
+    "id": "MGR-000012",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000013",
+    "id": "MGR-000013",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000014",
+    "id": "MGR-000014",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000015",
+    "id": "MGR-000015",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000016",
+    "id": "MGR-000016",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000017",
+    "id": "MGR-000017",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000018",
+    "id": "MGR-000018",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000019",
+    "id": "MGR-000019",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000020",
+    "id": "MGR-000020",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000021",
+    "id": "MGR-000021",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000022",
+    "id": "MGR-000022",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000023",
+    "id": "MGR-000023",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000024",
+    "id": "MGR-000024",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000025",
+    "id": "MGR-000025",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000026",
+    "id": "MGR-000026",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000027",
+    "id": "MGR-000027",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000028",
+    "id": "MGR-000028",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000029",
+    "id": "MGR-000029",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000030",
+    "id": "MGR-000030",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000031",
+    "id": "MGR-000031",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000032",
+    "id": "MGR-000032",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000033",
+    "id": "MGR-000033",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000034",
+    "id": "MGR-000034",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000035",
+    "id": "MGR-000035",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000036",
+    "id": "MGR-000036",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000037",
+    "id": "MGR-000037",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000038",
+    "id": "MGR-000038",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000039",
+    "id": "MGR-000039",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000040",
+    "id": "MGR-000040",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000041",
+    "id": "MGR-000041",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000042",
+    "id": "MGR-000042",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000043",
+    "id": "MGR-000043",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000044",
+    "id": "MGR-000044",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000045",
+    "id": "MGR-000045",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000046",
+    "id": "MGR-000046",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000047",
+    "id": "MGR-000047",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000048",
+    "id": "MGR-000048",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000049",
+    "id": "MGR-000049",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000050",
+    "id": "MGR-000050",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000051",
+    "id": "MGR-000051",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000052",
+    "id": "MGR-000052",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000053",
+    "id": "MGR-000053",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000054",
+    "id": "MGR-000054",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000055",
+    "id": "MGR-000055",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000056",
+    "id": "MGR-000056",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000057",
+    "id": "MGR-000057",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000058",
+    "id": "MGR-000058",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000059",
+    "id": "MGR-000059",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000060",
+    "id": "MGR-000060",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000061",
+    "id": "MGR-000061",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000062",
+    "id": "MGR-000062",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000063",
+    "id": "MGR-000063",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000064",
+    "id": "MGR-000064",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000065",
+    "id": "MGR-000065",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000066",
+    "id": "MGR-000066",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000067",
+    "id": "MGR-000067",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000068",
+    "id": "MGR-000068",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000069",
+    "id": "MGR-000069",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000070",
+    "id": "MGR-000070",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000071",
+    "id": "MGR-000071",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000072",
+    "id": "MGR-000072",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000073",
+    "id": "MGR-000073",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000074",
+    "id": "MGR-000074",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000075",
+    "id": "MGR-000075",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000076",
+    "id": "MGR-000076",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000077",
+    "id": "MGR-000077",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000078",
+    "id": "MGR-000078",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000079",
+    "id": "MGR-000079",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000080",
+    "id": "MGR-000080",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000081",
+    "id": "MGR-000081",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000082",
+    "id": "MGR-000082",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000083",
+    "id": "MGR-000083",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000084",
+    "id": "MGR-000084",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000085",
+    "id": "MGR-000085",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000086",
+    "id": "MGR-000086",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000087",
+    "id": "MGR-000087",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000088",
+    "id": "MGR-000088",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000089",
+    "id": "MGR-000089",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000090",
+    "id": "MGR-000090",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000091",
+    "id": "MGR-000091",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000092",
+    "id": "MGR-000092",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000093",
+    "id": "MGR-000093",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000094",
+    "id": "MGR-000094",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000095",
+    "id": "MGR-000095",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000096",
+    "id": "MGR-000096",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000097",
+    "id": "MGR-000097",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000098",
+    "id": "MGR-000098",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000099",
+    "id": "MGR-000099",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000100",
+    "id": "MGR-000100",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000101",
+    "id": "MGR-000101",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000102",
+    "id": "MGR-000102",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000103",
+    "id": "MGR-000103",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000104",
+    "id": "MGR-000104",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000105",
+    "id": "MGR-000105",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000106",
+    "id": "MGR-000106",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000107",
+    "id": "MGR-000107",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000108",
+    "id": "MGR-000108",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000109",
+    "id": "MGR-000109",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000110",
+    "id": "MGR-000110",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000111",
+    "id": "MGR-000111",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000112",
+    "id": "MGR-000112",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000113",
+    "id": "MGR-000113",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000114",
+    "id": "MGR-000114",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000115",
+    "id": "MGR-000115",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000116",
+    "id": "MGR-000116",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000117",
+    "id": "MGR-000117",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000118",
+    "id": "MGR-000118",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000119",
+    "id": "MGR-000119",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000120",
+    "id": "MGR-000120",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000121",
+    "id": "MGR-000121",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000122",
+    "id": "MGR-000122",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000123",
+    "id": "MGR-000123",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000124",
+    "id": "MGR-000124",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000125",
+    "id": "MGR-000125",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000126",
+    "id": "MGR-000126",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000127",
+    "id": "MGR-000127",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000128",
+    "id": "MGR-000128",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000129",
+    "id": "MGR-000129",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000130",
+    "id": "MGR-000130",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000131",
+    "id": "MGR-000131",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000132",
+    "id": "MGR-000132",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000133",
+    "id": "MGR-000133",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000134",
+    "id": "MGR-000134",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000135",
+    "id": "MGR-000135",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000136",
+    "id": "MGR-000136",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000137",
+    "id": "MGR-000137",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000138",
+    "id": "MGR-000138",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000139",
+    "id": "MGR-000139",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000140",
+    "id": "MGR-000140",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000141",
+    "id": "MGR-000141",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000142",
+    "id": "MGR-000142",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000143",
+    "id": "MGR-000143",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000144",
+    "id": "MGR-000144",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000145",
+    "id": "MGR-000145",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000146",
+    "id": "MGR-000146",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000147",
+    "id": "MGR-000147",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000148",
+    "id": "MGR-000148",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000149",
+    "id": "MGR-000149",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000150",
+    "id": "MGR-000150",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000151",
+    "id": "MGR-000151",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000152",
+    "id": "MGR-000152",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000153",
+    "id": "MGR-000153",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000154",
+    "id": "MGR-000154",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000155",
+    "id": "MGR-000155",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000156",
+    "id": "MGR-000156",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000157",
+    "id": "MGR-000157",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000158",
+    "id": "MGR-000158",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000159",
+    "id": "MGR-000159",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000160",
+    "id": "MGR-000160",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000161",
+    "id": "MGR-000161",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000162",
+    "id": "MGR-000162",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000163",
+    "id": "MGR-000163",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000164",
+    "id": "MGR-000164",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000165",
+    "id": "MGR-000165",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000166",
+    "id": "MGR-000166",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000167",
+    "id": "MGR-000167",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000168",
+    "id": "MGR-000168",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000169",
+    "id": "MGR-000169",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000170",
+    "id": "MGR-000170",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000171",
+    "id": "MGR-000171",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000172",
+    "id": "MGR-000172",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000173",
+    "id": "MGR-000173",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000174",
+    "id": "MGR-000174",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000175",
+    "id": "MGR-000175",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000176",
+    "id": "MGR-000176",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000177",
+    "id": "MGR-000177",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000178",
+    "id": "MGR-000178",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000179",
+    "id": "MGR-000179",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000180",
+    "id": "MGR-000180",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000181",
+    "id": "MGR-000181",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000182",
+    "id": "MGR-000182",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000183",
+    "id": "MGR-000183",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000184",
+    "id": "MGR-000184",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000185",
+    "id": "MGR-000185",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000186",
+    "id": "MGR-000186",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000187",
+    "id": "MGR-000187",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000188",
+    "id": "MGR-000188",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000189",
+    "id": "MGR-000189",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000190",
+    "id": "MGR-000190",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000191",
+    "id": "MGR-000191",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000192",
+    "id": "MGR-000192",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000193",
+    "id": "MGR-000193",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000194",
+    "id": "MGR-000194",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000195",
+    "id": "MGR-000195",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000196",
+    "id": "MGR-000196",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000197",
+    "id": "MGR-000197",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000198",
+    "id": "MGR-000198",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000199",
+    "id": "MGR-000199",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000200",
+    "id": "MGR-000200",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000201",
+    "id": "MGR-000201",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000202",
+    "id": "MGR-000202",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000203",
+    "id": "MGR-000203",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000204",
+    "id": "MGR-000204",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000205",
+    "id": "MGR-000205",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000206",
+    "id": "MGR-000206",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000207",
+    "id": "MGR-000207",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000208",
+    "id": "MGR-000208",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000209",
+    "id": "MGR-000209",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000210",
+    "id": "MGR-000210",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000211",
+    "id": "MGR-000211",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000212",
+    "id": "MGR-000212",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000213",
+    "id": "MGR-000213",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000214",
+    "id": "MGR-000214",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000215",
+    "id": "MGR-000215",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000216",
+    "id": "MGR-000216",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000217",
+    "id": "MGR-000217",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000218",
+    "id": "MGR-000218",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000219",
+    "id": "MGR-000219",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000220",
+    "id": "MGR-000220",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000221",
+    "id": "MGR-000221",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000222",
+    "id": "MGR-000222",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000223",
+    "id": "MGR-000223",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000224",
+    "id": "MGR-000224",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000225",
+    "id": "MGR-000225",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000226",
+    "id": "MGR-000226",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000227",
+    "id": "MGR-000227",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000228",
+    "id": "MGR-000228",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000229",
+    "id": "MGR-000229",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000230",
+    "id": "MGR-000230",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000231",
+    "id": "MGR-000231",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000232",
+    "id": "MGR-000232",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000233",
+    "id": "MGR-000233",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000234",
+    "id": "MGR-000234",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000235",
+    "id": "MGR-000235",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000236",
+    "id": "MGR-000236",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000237",
+    "id": "MGR-000237",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000238",
+    "id": "MGR-000238",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000239",
+    "id": "MGR-000239",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000240",
+    "id": "MGR-000240",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000241",
+    "id": "MGR-000241",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000242",
+    "id": "MGR-000242",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000243",
+    "id": "MGR-000243",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000244",
+    "id": "MGR-000244",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000245",
+    "id": "MGR-000245",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000246",
+    "id": "MGR-000246",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000247",
+    "id": "MGR-000247",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000248",
+    "id": "MGR-000248",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000249",
+    "id": "MGR-000249",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000250",
+    "id": "MGR-000250",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000251",
+    "id": "MGR-000251",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000252",
+    "id": "MGR-000252",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000253",
+    "id": "MGR-000253",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000254",
+    "id": "MGR-000254",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000255",
+    "id": "MGR-000255",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000256",
+    "id": "MGR-000256",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000257",
+    "id": "MGR-000257",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000258",
+    "id": "MGR-000258",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000259",
+    "id": "MGR-000259",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000260",
+    "id": "MGR-000260",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000261",
+    "id": "MGR-000261",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000262",
+    "id": "MGR-000262",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000263",
+    "id": "MGR-000263",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000264",
+    "id": "MGR-000264",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000265",
+    "id": "MGR-000265",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000266",
+    "id": "MGR-000266",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000267",
+    "id": "MGR-000267",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000268",
+    "id": "MGR-000268",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000269",
+    "id": "MGR-000269",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000270",
+    "id": "MGR-000270",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000271",
+    "id": "MGR-000271",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000272",
+    "id": "MGR-000272",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000273",
+    "id": "MGR-000273",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000274",
+    "id": "MGR-000274",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000275",
+    "id": "MGR-000275",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000276",
+    "id": "MGR-000276",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000277",
+    "id": "MGR-000277",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000278",
+    "id": "MGR-000278",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000279",
+    "id": "MGR-000279",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000280",
+    "id": "MGR-000280",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000281",
+    "id": "MGR-000281",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000282",
+    "id": "MGR-000282",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000283",
+    "id": "MGR-000283",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000284",
+    "id": "MGR-000284",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000285",
+    "id": "MGR-000285",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000286",
+    "id": "MGR-000286",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000287",
+    "id": "MGR-000287",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000288",
+    "id": "MGR-000288",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000289",
+    "id": "MGR-000289",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000290",
+    "id": "MGR-000290",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000291",
+    "id": "MGR-000291",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000292",
+    "id": "MGR-000292",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000293",
+    "id": "MGR-000293",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000294",
+    "id": "MGR-000294",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000295",
+    "id": "MGR-000295",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000296",
+    "id": "MGR-000296",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000297",
+    "id": "MGR-000297",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000298",
+    "id": "MGR-000298",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000299",
+    "id": "MGR-000299",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000300",
+    "id": "MGR-000300",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000301",
+    "id": "MGR-000301",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000302",
+    "id": "MGR-000302",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000303",
+    "id": "MGR-000303",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000304",
+    "id": "MGR-000304",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000305",
+    "id": "MGR-000305",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000306",
+    "id": "MGR-000306",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000307",
+    "id": "MGR-000307",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000308",
+    "id": "MGR-000308",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000309",
+    "id": "MGR-000309",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000310",
+    "id": "MGR-000310",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000311",
+    "id": "MGR-000311",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000312",
+    "id": "MGR-000312",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000313",
+    "id": "MGR-000313",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000314",
+    "id": "MGR-000314",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000315",
+    "id": "MGR-000315",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000316",
+    "id": "MGR-000316",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000317",
+    "id": "MGR-000317",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000318",
+    "id": "MGR-000318",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000319",
+    "id": "MGR-000319",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000320",
+    "id": "MGR-000320",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000321",
+    "id": "MGR-000321",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000322",
+    "id": "MGR-000322",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000323",
+    "id": "MGR-000323",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000324",
+    "id": "MGR-000324",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000325",
+    "id": "MGR-000325",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000326",
+    "id": "MGR-000326",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000327",
+    "id": "MGR-000327",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000328",
+    "id": "MGR-000328",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000329",
+    "id": "MGR-000329",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000330",
+    "id": "MGR-000330",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000331",
+    "id": "MGR-000331",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000332",
+    "id": "MGR-000332",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000333",
+    "id": "MGR-000333",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000334",
+    "id": "MGR-000334",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000335",
+    "id": "MGR-000335",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000336",
+    "id": "MGR-000336",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000337",
+    "id": "MGR-000337",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000338",
+    "id": "MGR-000338",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000339",
+    "id": "MGR-000339",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000340",
+    "id": "MGR-000340",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000341",
+    "id": "MGR-000341",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000342",
+    "id": "MGR-000342",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000343",
+    "id": "MGR-000343",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000344",
+    "id": "MGR-000344",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000345",
+    "id": "MGR-000345",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000346",
+    "id": "MGR-000346",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000347",
+    "id": "MGR-000347",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000348",
+    "id": "MGR-000348",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000349",
+    "id": "MGR-000349",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000350",
+    "id": "MGR-000350",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000351",
+    "id": "MGR-000351",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000352",
+    "id": "MGR-000352",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000353",
+    "id": "MGR-000353",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000354",
+    "id": "MGR-000354",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000355",
+    "id": "MGR-000355",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000356",
+    "id": "MGR-000356",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000357",
+    "id": "MGR-000357",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000358",
+    "id": "MGR-000358",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000359",
+    "id": "MGR-000359",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000360",
+    "id": "MGR-000360",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000361",
+    "id": "MGR-000361",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000362",
+    "id": "MGR-000362",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000363",
+    "id": "MGR-000363",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000364",
+    "id": "MGR-000364",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000365",
+    "id": "MGR-000365",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000366",
+    "id": "MGR-000366",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000367",
+    "id": "MGR-000367",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000368",
+    "id": "MGR-000368",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000369",
+    "id": "MGR-000369",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000370",
+    "id": "MGR-000370",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000371",
+    "id": "MGR-000371",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000372",
+    "id": "MGR-000372",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000373",
+    "id": "MGR-000373",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000374",
+    "id": "MGR-000374",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000375",
+    "id": "MGR-000375",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000376",
+    "id": "MGR-000376",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000377",
+    "id": "MGR-000377",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000378",
+    "id": "MGR-000378",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000379",
+    "id": "MGR-000379",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000380",
+    "id": "MGR-000380",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000381",
+    "id": "MGR-000381",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000382",
+    "id": "MGR-000382",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000383",
+    "id": "MGR-000383",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000384",
+    "id": "MGR-000384",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000385",
+    "id": "MGR-000385",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000386",
+    "id": "MGR-000386",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000387",
+    "id": "MGR-000387",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000388",
+    "id": "MGR-000388",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000389",
+    "id": "MGR-000389",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000390",
+    "id": "MGR-000390",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000391",
+    "id": "MGR-000391",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000392",
+    "id": "MGR-000392",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000393",
+    "id": "MGR-000393",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000394",
+    "id": "MGR-000394",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000395",
+    "id": "MGR-000395",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000396",
+    "id": "MGR-000396",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000397",
+    "id": "MGR-000397",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000398",
+    "id": "MGR-000398",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000399",
+    "id": "MGR-000399",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000400",
+    "id": "MGR-000400",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000401",
+    "id": "MGR-000401",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000402",
+    "id": "MGR-000402",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000403",
+    "id": "MGR-000403",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000404",
+    "id": "MGR-000404",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000405",
+    "id": "MGR-000405",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000406",
+    "id": "MGR-000406",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000407",
+    "id": "MGR-000407",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000408",
+    "id": "MGR-000408",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000409",
+    "id": "MGR-000409",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000410",
+    "id": "MGR-000410",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000411",
+    "id": "MGR-000411",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000412",
+    "id": "MGR-000412",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000413",
+    "id": "MGR-000413",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000414",
+    "id": "MGR-000414",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000415",
+    "id": "MGR-000415",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000416",
+    "id": "MGR-000416",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000417",
+    "id": "MGR-000417",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000418",
+    "id": "MGR-000418",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000419",
+    "id": "MGR-000419",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000420",
+    "id": "MGR-000420",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000421",
+    "id": "MGR-000421",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000422",
+    "id": "MGR-000422",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000423",
+    "id": "MGR-000423",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000424",
+    "id": "MGR-000424",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000425",
+    "id": "MGR-000425",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000426",
+    "id": "MGR-000426",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000427",
+    "id": "MGR-000427",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000428",
+    "id": "MGR-000428",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000429",
+    "id": "MGR-000429",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000430",
+    "id": "MGR-000430",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000431",
+    "id": "MGR-000431",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000432",
+    "id": "MGR-000432",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000433",
+    "id": "MGR-000433",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000434",
+    "id": "MGR-000434",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000435",
+    "id": "MGR-000435",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000436",
+    "id": "MGR-000436",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000437",
+    "id": "MGR-000437",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000438",
+    "id": "MGR-000438",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000439",
+    "id": "MGR-000439",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000440",
+    "id": "MGR-000440",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000441",
+    "id": "MGR-000441",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000442",
+    "id": "MGR-000442",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000443",
+    "id": "MGR-000443",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000444",
+    "id": "MGR-000444",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000445",
+    "id": "MGR-000445",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000446",
+    "id": "MGR-000446",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000447",
+    "id": "MGR-000447",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000448",
+    "id": "MGR-000448",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000449",
+    "id": "MGR-000449",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000450",
+    "id": "MGR-000450",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000451",
+    "id": "MGR-000451",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000452",
+    "id": "MGR-000452",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000453",
+    "id": "MGR-000453",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000454",
+    "id": "MGR-000454",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000455",
+    "id": "MGR-000455",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000456",
+    "id": "MGR-000456",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000457",
+    "id": "MGR-000457",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000458",
+    "id": "MGR-000458",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000459",
+    "id": "MGR-000459",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000460",
+    "id": "MGR-000460",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000461",
+    "id": "MGR-000461",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000462",
+    "id": "MGR-000462",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000463",
+    "id": "MGR-000463",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000464",
+    "id": "MGR-000464",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000465",
+    "id": "MGR-000465",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000466",
+    "id": "MGR-000466",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000467",
+    "id": "MGR-000467",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000468",
+    "id": "MGR-000468",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000469",
+    "id": "MGR-000469",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000470",
+    "id": "MGR-000470",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000471",
+    "id": "MGR-000471",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000472",
+    "id": "MGR-000472",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000473",
+    "id": "MGR-000473",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000474",
+    "id": "MGR-000474",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000475",
+    "id": "MGR-000475",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000476",
+    "id": "MGR-000476",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000477",
+    "id": "MGR-000477",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000478",
+    "id": "MGR-000478",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000479",
+    "id": "MGR-000479",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000480",
+    "id": "MGR-000480",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000481",
+    "id": "MGR-000481",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000482",
+    "id": "MGR-000482",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000483",
+    "id": "MGR-000483",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000484",
+    "id": "MGR-000484",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000485",
+    "id": "MGR-000485",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000486",
+    "id": "MGR-000486",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000487",
+    "id": "MGR-000487",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000488",
+    "id": "MGR-000488",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000489",
+    "id": "MGR-000489",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000490",
+    "id": "MGR-000490",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000491",
+    "id": "MGR-000491",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000492",
+    "id": "MGR-000492",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000493",
+    "id": "MGR-000493",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000494",
+    "id": "MGR-000494",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000495",
+    "id": "MGR-000495",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000496",
+    "id": "MGR-000496",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000497",
+    "id": "MGR-000497",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000498",
+    "id": "MGR-000498",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000499",
+    "id": "MGR-000499",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000500",
+    "id": "MGR-000500",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  }
+]

@@ -1,0 +1,61 @@
+author_employee_id,content,created_at,id,review_cycle_id,status,subject_employee_id,updated_at,visibility
+EMP-000002,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000001,CYCLE-2024-H1,submitted,EMP-000001,2026-11-06T12:00:00+00:00,private
+EMP-000003,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000002,CYCLE-2024-H2,submitted,EMP-000002,2026-11-06T12:00:00+00:00,manager
+EMP-000004,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000003,CYCLE-2025-H1,submitted,EMP-000003,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000005,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000004,CYCLE-2025-H2,submitted,EMP-000004,2026-11-06T12:00:00+00:00,private
+EMP-000006,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000005,CYCLE-2026-H1,submitted,EMP-000005,2026-11-06T12:00:00+00:00,manager
+EMP-000007,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000006,CYCLE-2026-H2,submitted,EMP-000006,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000008,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000007,CYCLE-2024-H1,submitted,EMP-000007,2026-11-06T12:00:00+00:00,private
+EMP-000009,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000008,CYCLE-2024-H2,submitted,EMP-000008,2026-11-06T12:00:00+00:00,manager
+EMP-000010,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000009,CYCLE-2025-H1,submitted,EMP-000009,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000011,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000010,CYCLE-2025-H2,submitted,EMP-000010,2026-11-06T12:00:00+00:00,private
+EMP-000012,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000011,CYCLE-2026-H1,submitted,EMP-000011,2026-11-06T12:00:00+00:00,manager
+EMP-000013,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000012,CYCLE-2026-H2,submitted,EMP-000012,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000014,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000013,CYCLE-2024-H1,submitted,EMP-000013,2026-11-06T12:00:00+00:00,private
+EMP-000015,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000014,CYCLE-2024-H2,submitted,EMP-000014,2026-11-06T12:00:00+00:00,manager
+EMP-000016,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000015,CYCLE-2025-H1,submitted,EMP-000015,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000017,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000016,CYCLE-2025-H2,submitted,EMP-000016,2026-11-06T12:00:00+00:00,private
+EMP-000018,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000017,CYCLE-2026-H1,submitted,EMP-000017,2026-11-06T12:00:00+00:00,manager
+EMP-000019,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000018,CYCLE-2026-H2,submitted,EMP-000018,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000020,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000019,CYCLE-2024-H1,submitted,EMP-000019,2026-11-06T12:00:00+00:00,private
+EMP-000021,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000020,CYCLE-2024-H2,submitted,EMP-000020,2026-11-06T12:00:00+00:00,manager
+EMP-000022,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000021,CYCLE-2025-H1,submitted,EMP-000021,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000023,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000022,CYCLE-2025-H2,submitted,EMP-000022,2026-11-06T12:00:00+00:00,private
+EMP-000024,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000023,CYCLE-2026-H1,submitted,EMP-000023,2026-11-06T12:00:00+00:00,manager
+EMP-000025,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000024,CYCLE-2026-H2,submitted,EMP-000024,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000026,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000025,CYCLE-2024-H1,submitted,EMP-000025,2026-11-06T12:00:00+00:00,private
+EMP-000027,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000026,CYCLE-2024-H2,submitted,EMP-000026,2026-11-06T12:00:00+00:00,manager
+EMP-000028,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000027,CYCLE-2025-H1,submitted,EMP-000027,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000029,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000028,CYCLE-2025-H2,submitted,EMP-000028,2026-11-06T12:00:00+00:00,private
+EMP-000030,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000029,CYCLE-2026-H1,submitted,EMP-000029,2026-11-06T12:00:00+00:00,manager
+EMP-000001,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000030,CYCLE-2026-H2,submitted,EMP-000030,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000003,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000031,CYCLE-2024-H1,submitted,EMP-000001,2026-11-06T12:00:00+00:00,private
+EMP-000004,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000032,CYCLE-2024-H2,submitted,EMP-000002,2026-11-06T12:00:00+00:00,manager
+EMP-000005,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000033,CYCLE-2025-H1,submitted,EMP-000003,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000006,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000034,CYCLE-2025-H2,submitted,EMP-000004,2026-11-06T12:00:00+00:00,private
+EMP-000007,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000035,CYCLE-2026-H1,submitted,EMP-000005,2026-11-06T12:00:00+00:00,manager
+EMP-000008,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000036,CYCLE-2026-H2,submitted,EMP-000006,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000009,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000037,CYCLE-2024-H1,submitted,EMP-000007,2026-11-06T12:00:00+00:00,private
+EMP-000010,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000038,CYCLE-2024-H2,submitted,EMP-000008,2026-11-06T12:00:00+00:00,manager
+EMP-000011,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000039,CYCLE-2025-H1,submitted,EMP-000009,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000012,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000040,CYCLE-2025-H2,submitted,EMP-000010,2026-11-06T12:00:00+00:00,private
+EMP-000013,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000041,CYCLE-2026-H1,submitted,EMP-000011,2026-11-06T12:00:00+00:00,manager
+EMP-000014,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000042,CYCLE-2026-H2,submitted,EMP-000012,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000015,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000043,CYCLE-2024-H1,submitted,EMP-000013,2026-11-06T12:00:00+00:00,private
+EMP-000016,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000044,CYCLE-2024-H2,submitted,EMP-000014,2026-11-06T12:00:00+00:00,manager
+EMP-000017,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000045,CYCLE-2025-H1,submitted,EMP-000015,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000018,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000046,CYCLE-2025-H2,submitted,EMP-000016,2026-11-06T12:00:00+00:00,private
+EMP-000019,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000047,CYCLE-2026-H1,submitted,EMP-000017,2026-11-06T12:00:00+00:00,manager
+EMP-000020,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000048,CYCLE-2026-H2,submitted,EMP-000018,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000021,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000049,CYCLE-2024-H1,submitted,EMP-000019,2026-11-06T12:00:00+00:00,private
+EMP-000022,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000050,CYCLE-2024-H2,submitted,EMP-000020,2026-11-06T12:00:00+00:00,manager
+EMP-000023,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000051,CYCLE-2025-H1,submitted,EMP-000021,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000024,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000052,CYCLE-2025-H2,submitted,EMP-000022,2026-11-06T12:00:00+00:00,private
+EMP-000025,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000053,CYCLE-2026-H1,submitted,EMP-000023,2026-11-06T12:00:00+00:00,manager
+EMP-000026,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000054,CYCLE-2026-H2,submitted,EMP-000024,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000027,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000055,CYCLE-2024-H1,submitted,EMP-000025,2026-11-06T12:00:00+00:00,private
+EMP-000028,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000056,CYCLE-2024-H2,submitted,EMP-000026,2026-11-06T12:00:00+00:00,manager
+EMP-000029,Communicates progress clearly and follows through on commitments.,2026-11-06T12:00:00+00:00,FB-000057,CYCLE-2025-H1,submitted,EMP-000027,2026-11-06T12:00:00+00:00,review_cycle
+EMP-000030,Collaborates across teams and incorporates constructive feedback.,2026-11-06T12:00:00+00:00,FB-000058,CYCLE-2025-H2,submitted,EMP-000028,2026-11-06T12:00:00+00:00,private
+EMP-000001,Shows strong ownership while continuing to develop prioritization skills.,2026-11-06T12:00:00+00:00,FB-000059,CYCLE-2026-H1,submitted,EMP-000029,2026-11-06T12:00:00+00:00,manager
+EMP-000002,Consistently contributes thoughtful analysis to team decisions.,2026-11-06T12:00:00+00:00,FB-000060,CYCLE-2026-H2,submitted,EMP-000030,2026-11-06T12:00:00+00:00,review_cycle

@@ -1,0 +1,222 @@
+[
+  {
+    "category": "Collaboration",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Communication competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000001",
+    "name": "Communication",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Leadership",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Strategic Thinking competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000002",
+    "name": "Strategic Thinking",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Delivery",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Execution competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000003",
+    "name": "Execution",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Impact",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Customer Focus competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000004",
+    "name": "Customer Focus",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Technical",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Data Literacy competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000005",
+    "name": "Data Literacy",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Technical",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Problem Solving competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000006",
+    "name": "Problem Solving",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Growth",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Adaptability competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000007",
+    "name": "Adaptability",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Leadership",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Mentoring competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000008",
+    "name": "Mentoring",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Leadership",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Decision Making competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000009",
+    "name": "Decision Making",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Delivery",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Ownership competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000010",
+    "name": "Ownership",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Delivery",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Planning competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000011",
+    "name": "Planning",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Growth",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Innovation competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000012",
+    "name": "Innovation",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Technical",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Quality competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000013",
+    "name": "Quality",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Collaboration",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Influence competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000014",
+    "name": "Influence",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Growth",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Learning Agility competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000015",
+    "name": "Learning Agility",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Delivery",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Accountability competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000016",
+    "name": "Accountability",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Collaboration",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Empathy competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000017",
+    "name": "Empathy",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Impact",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Product Thinking competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000018",
+    "name": "Product Thinking",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Leadership",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Risk Management competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000019",
+    "name": "Risk Management",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  },
+  {
+    "category": "Delivery",
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "description": "Operational Excellence competency used for performance development.",
+    "effective_from": "2024-01-01",
+    "effective_to": null,
+    "id": "COMP-000020",
+    "name": "Operational Excellence",
+    "status": "active",
+    "updated_at": "2026-11-06T17:30:00+05:30"
+  }
+]

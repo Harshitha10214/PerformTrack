@@ -1,0 +1,272 @@
+[
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000001",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000002",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000003",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000004",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000005",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000006",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000007",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000008",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000009",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000010",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000011",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000012",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000013",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000014",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000015",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000016",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000017",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000018",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000019",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000020",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000021",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000022",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000023",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000024",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000025",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000026",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000027",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000028",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000029",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Development plan approved.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "development_plan_id": "DEV-000030",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  }
+]

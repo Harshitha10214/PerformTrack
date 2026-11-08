@@ -1,0 +1,21 @@
+category,created_at,description,effective_from,effective_to,id,name,status,updated_at
+Collaboration,2026-11-06T17:30:00+05:30,Communication competency used for performance development.,2024-01-01,,COMP-000001,Communication,active,2026-11-06T17:30:00+05:30
+Leadership,2026-11-06T17:30:00+05:30,Strategic Thinking competency used for performance development.,2024-01-01,,COMP-000002,Strategic Thinking,active,2026-11-06T17:30:00+05:30
+Delivery,2026-11-06T17:30:00+05:30,Execution competency used for performance development.,2024-01-01,,COMP-000003,Execution,active,2026-11-06T17:30:00+05:30
+Impact,2026-11-06T17:30:00+05:30,Customer Focus competency used for performance development.,2024-01-01,,COMP-000004,Customer Focus,active,2026-11-06T17:30:00+05:30
+Technical,2026-11-06T17:30:00+05:30,Data Literacy competency used for performance development.,2024-01-01,,COMP-000005,Data Literacy,active,2026-11-06T17:30:00+05:30
+Technical,2026-11-06T17:30:00+05:30,Problem Solving competency used for performance development.,2024-01-01,,COMP-000006,Problem Solving,active,2026-11-06T17:30:00+05:30
+Growth,2026-11-06T17:30:00+05:30,Adaptability competency used for performance development.,2024-01-01,,COMP-000007,Adaptability,active,2026-11-06T17:30:00+05:30
+Leadership,2026-11-06T17:30:00+05:30,Mentoring competency used for performance development.,2024-01-01,,COMP-000008,Mentoring,active,2026-11-06T17:30:00+05:30
+Leadership,2026-11-06T17:30:00+05:30,Decision Making competency used for performance development.,2024-01-01,,COMP-000009,Decision Making,active,2026-11-06T17:30:00+05:30
+Delivery,2026-11-06T17:30:00+05:30,Ownership competency used for performance development.,2024-01-01,,COMP-000010,Ownership,active,2026-11-06T17:30:00+05:30
+Delivery,2026-11-06T17:30:00+05:30,Planning competency used for performance development.,2024-01-01,,COMP-000011,Planning,active,2026-11-06T17:30:00+05:30
+Growth,2026-11-06T17:30:00+05:30,Innovation competency used for performance development.,2024-01-01,,COMP-000012,Innovation,active,2026-11-06T17:30:00+05:30
+Technical,2026-11-06T17:30:00+05:30,Quality competency used for performance development.,2024-01-01,,COMP-000013,Quality,active,2026-11-06T17:30:00+05:30
+Collaboration,2026-11-06T17:30:00+05:30,Influence competency used for performance development.,2024-01-01,,COMP-000014,Influence,active,2026-11-06T17:30:00+05:30
+Growth,2026-11-06T17:30:00+05:30,Learning Agility competency used for performance development.,2024-01-01,,COMP-000015,Learning Agility,active,2026-11-06T17:30:00+05:30
+Delivery,2026-11-06T17:30:00+05:30,Accountability competency used for performance development.,2024-01-01,,COMP-000016,Accountability,active,2026-11-06T17:30:00+05:30
+Collaboration,2026-11-06T17:30:00+05:30,Empathy competency used for performance development.,2024-01-01,,COMP-000017,Empathy,active,2026-11-06T17:30:00+05:30
+Impact,2026-11-06T17:30:00+05:30,Product Thinking competency used for performance development.,2024-01-01,,COMP-000018,Product Thinking,active,2026-11-06T17:30:00+05:30
+Leadership,2026-11-06T17:30:00+05:30,Risk Management competency used for performance development.,2024-01-01,,COMP-000019,Risk Management,active,2026-11-06T17:30:00+05:30
+Delivery,2026-11-06T17:30:00+05:30,Operational Excellence competency used for performance development.,2024-01-01,,COMP-000020,Operational Excellence,active,2026-11-06T17:30:00+05:30

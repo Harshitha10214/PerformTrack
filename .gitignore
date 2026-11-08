@@ -1,0 +1,31 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.log
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PostgreSQL / database
+*.sqlite3
+*.db
+backend/storage/evidence/
+
+# TypeScript build cache
+*.tsbuildinfo

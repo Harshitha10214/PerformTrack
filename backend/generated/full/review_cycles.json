@@ -1,0 +1,68 @@
+[
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2024-06-30",
+    "half": "H1",
+    "id": "CYCLE-2024-H1",
+    "name": "2024 H1 Performance Cycle",
+    "starts_on": "2024-01-01",
+    "status": "closed",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2024
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2024-12-31",
+    "half": "H2",
+    "id": "CYCLE-2024-H2",
+    "name": "2024 H2 Performance Cycle",
+    "starts_on": "2024-07-01",
+    "status": "closed",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2024
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2025-06-30",
+    "half": "H1",
+    "id": "CYCLE-2025-H1",
+    "name": "2025 H1 Performance Cycle",
+    "starts_on": "2025-01-01",
+    "status": "closed",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2025
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2025-12-31",
+    "half": "H2",
+    "id": "CYCLE-2025-H2",
+    "name": "2025 H2 Performance Cycle",
+    "starts_on": "2025-07-01",
+    "status": "closed",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2025
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2026-06-30",
+    "half": "H1",
+    "id": "CYCLE-2026-H1",
+    "name": "2026 H1 Performance Cycle",
+    "starts_on": "2026-01-01",
+    "status": "closed",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2026
+  },
+  {
+    "created_at": "2026-11-06T17:30:00+05:30",
+    "ends_on": "2026-12-31",
+    "half": "H2",
+    "id": "CYCLE-2026-H2",
+    "name": "2026 H2 Performance Cycle",
+    "starts_on": "2026-07-01",
+    "status": "open",
+    "updated_at": "2026-11-06T17:30:00+05:30",
+    "year": 2026
+  }
+]

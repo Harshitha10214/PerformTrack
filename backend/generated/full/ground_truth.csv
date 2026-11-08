@@ -1,0 +1,6 @@
+issue_type,ground_truth_label,expected_decision,record_id
+goal_owner_mismatch,anomaly,REJECT,GOAL-EMP-000001-001
+unjustified_progress_over_100,anomaly,FLAG,GOAL-EMP-000001-002
+invalid_reviewer_relationship,anomaly,REJECT,REV-2026-000001
+silent_edit_in_closed_cycle,anomaly,REJECT,GOAL-EMP-000001-003
+untraceable_feedback,anomaly,FLAG,FB-000001

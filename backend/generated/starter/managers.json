@@ -1,0 +1,47 @@
+[
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000001",
+    "id": "MGR-000001",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000002",
+    "id": "MGR-000002",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000003",
+    "id": "MGR-000003",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000004",
+    "id": "MGR-000004",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "effective_from": "2020-01-01",
+    "effective_to": null,
+    "employee_id": "EMP-000005",
+    "id": "MGR-000005",
+    "status": "active",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  }
+]

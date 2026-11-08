@@ -1,0 +1,28 @@
+{
+  "duplicate_primary_keys": 0,
+  "foreign_key_columns_validated": 292500,
+  "goal_progress_count": 10000,
+  "tables": {
+    "checkin_key_results": 20000,
+    "checkins": 20000,
+    "competencies": 20,
+    "development_plan_approvals": 3000,
+    "development_plan_competencies": 3000,
+    "development_plan_goals": 3000,
+    "development_plans": 3000,
+    "employee_competencies": 9000,
+    "employees": 3000,
+    "evidence": 4600,
+    "feedback": 6000,
+    "feedback_competencies": 6000,
+    "goal_competencies": 10000,
+    "goals": 10000,
+    "key_results": 20000,
+    "managers": 500,
+    "review_approvals": 3000,
+    "review_competencies": 3000,
+    "review_cycles": 6,
+    "reviews": 3000
+  },
+  "total_rows": 130126
+}

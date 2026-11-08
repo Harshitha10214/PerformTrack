@@ -1,0 +1,272 @@
+[
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000001",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000002",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000003",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000004",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000005",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000006",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000007",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000008",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000009",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000010",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000011",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000012",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000013",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000014",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000015",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000016",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000017",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000018",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000019",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000020",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000021",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000022",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000023",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000024",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000025",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000001",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000026",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000002",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000027",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000003",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000028",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000004",
+    "comments": "Approved following review.",
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": "2026-11-05T00:00:00+00:00",
+    "review_id": "REV-2026-000029",
+    "status": "approved",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  },
+  {
+    "approver_manager_id": "MGR-000005",
+    "comments": null,
+    "created_at": "2026-11-06T12:00:00+00:00",
+    "decided_at": null,
+    "review_id": "REV-2026-000030",
+    "status": "pending",
+    "updated_at": "2026-11-06T12:00:00+00:00"
+  }
+]

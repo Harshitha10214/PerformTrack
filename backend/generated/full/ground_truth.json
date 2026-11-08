@@ -1,0 +1,32 @@
+[
+  {
+    "expected_decision": "REJECT",
+    "ground_truth_label": "anomaly",
+    "issue_type": "goal_owner_mismatch",
+    "record_id": "GOAL-EMP-000001-001"
+  },
+  {
+    "expected_decision": "FLAG",
+    "ground_truth_label": "anomaly",
+    "issue_type": "unjustified_progress_over_100",
+    "record_id": "GOAL-EMP-000001-002"
+  },
+  {
+    "expected_decision": "REJECT",
+    "ground_truth_label": "anomaly",
+    "issue_type": "invalid_reviewer_relationship",
+    "record_id": "REV-2026-000001"
+  },
+  {
+    "expected_decision": "REJECT",
+    "ground_truth_label": "anomaly",
+    "issue_type": "silent_edit_in_closed_cycle",
+    "record_id": "GOAL-EMP-000001-003"
+  },
+  {
+    "expected_decision": "FLAG",
+    "ground_truth_label": "anomaly",
+    "issue_type": "untraceable_feedback",
+    "record_id": "FB-000001"
+  }
+]

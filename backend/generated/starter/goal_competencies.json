@@ -1,0 +1,402 @@
+[
+  {
+    "competency_id": "COMP-000001",
+    "goal_id": "GOAL-EMP-000001-001"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "goal_id": "GOAL-EMP-000002-001"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "goal_id": "GOAL-EMP-000003-001"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "goal_id": "GOAL-EMP-000004-001"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "goal_id": "GOAL-EMP-000005-001"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "goal_id": "GOAL-EMP-000006-001"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "goal_id": "GOAL-EMP-000007-001"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "goal_id": "GOAL-EMP-000008-001"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "goal_id": "GOAL-EMP-000009-001"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "goal_id": "GOAL-EMP-000010-001"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "goal_id": "GOAL-EMP-000011-001"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "goal_id": "GOAL-EMP-000012-001"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "goal_id": "GOAL-EMP-000013-001"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "goal_id": "GOAL-EMP-000014-001"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "goal_id": "GOAL-EMP-000015-001"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "goal_id": "GOAL-EMP-000016-001"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "goal_id": "GOAL-EMP-000017-001"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "goal_id": "GOAL-EMP-000018-001"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "goal_id": "GOAL-EMP-000019-001"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "goal_id": "GOAL-EMP-000020-001"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "goal_id": "GOAL-EMP-000021-001"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "goal_id": "GOAL-EMP-000022-001"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "goal_id": "GOAL-EMP-000023-001"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "goal_id": "GOAL-EMP-000024-001"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "goal_id": "GOAL-EMP-000025-001"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "goal_id": "GOAL-EMP-000026-001"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "goal_id": "GOAL-EMP-000027-001"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "goal_id": "GOAL-EMP-000028-001"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "goal_id": "GOAL-EMP-000029-001"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "goal_id": "GOAL-EMP-000030-001"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "goal_id": "GOAL-EMP-000001-002"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "goal_id": "GOAL-EMP-000002-002"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "goal_id": "GOAL-EMP-000003-002"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "goal_id": "GOAL-EMP-000004-002"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "goal_id": "GOAL-EMP-000005-002"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "goal_id": "GOAL-EMP-000006-002"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "goal_id": "GOAL-EMP-000007-002"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "goal_id": "GOAL-EMP-000008-002"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "goal_id": "GOAL-EMP-000009-002"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "goal_id": "GOAL-EMP-000010-002"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "goal_id": "GOAL-EMP-000011-002"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "goal_id": "GOAL-EMP-000012-002"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "goal_id": "GOAL-EMP-000013-002"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "goal_id": "GOAL-EMP-000014-002"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "goal_id": "GOAL-EMP-000015-002"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "goal_id": "GOAL-EMP-000016-002"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "goal_id": "GOAL-EMP-000017-002"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "goal_id": "GOAL-EMP-000018-002"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "goal_id": "GOAL-EMP-000019-002"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "goal_id": "GOAL-EMP-000020-002"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "goal_id": "GOAL-EMP-000021-002"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "goal_id": "GOAL-EMP-000022-002"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "goal_id": "GOAL-EMP-000023-002"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "goal_id": "GOAL-EMP-000024-002"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "goal_id": "GOAL-EMP-000025-002"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "goal_id": "GOAL-EMP-000026-002"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "goal_id": "GOAL-EMP-000027-002"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "goal_id": "GOAL-EMP-000028-002"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "goal_id": "GOAL-EMP-000029-002"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "goal_id": "GOAL-EMP-000030-002"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "goal_id": "GOAL-EMP-000001-003"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "goal_id": "GOAL-EMP-000002-003"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "goal_id": "GOAL-EMP-000003-003"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "goal_id": "GOAL-EMP-000004-003"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "goal_id": "GOAL-EMP-000005-003"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "goal_id": "GOAL-EMP-000006-003"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "goal_id": "GOAL-EMP-000007-003"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "goal_id": "GOAL-EMP-000008-003"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "goal_id": "GOAL-EMP-000009-003"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "goal_id": "GOAL-EMP-000010-003"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "goal_id": "GOAL-EMP-000011-003"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "goal_id": "GOAL-EMP-000012-003"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "goal_id": "GOAL-EMP-000013-003"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "goal_id": "GOAL-EMP-000014-003"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "goal_id": "GOAL-EMP-000015-003"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "goal_id": "GOAL-EMP-000016-003"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "goal_id": "GOAL-EMP-000017-003"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "goal_id": "GOAL-EMP-000018-003"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "goal_id": "GOAL-EMP-000019-003"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "goal_id": "GOAL-EMP-000020-003"
+  },
+  {
+    "competency_id": "COMP-000001",
+    "goal_id": "GOAL-EMP-000021-003"
+  },
+  {
+    "competency_id": "COMP-000002",
+    "goal_id": "GOAL-EMP-000022-003"
+  },
+  {
+    "competency_id": "COMP-000003",
+    "goal_id": "GOAL-EMP-000023-003"
+  },
+  {
+    "competency_id": "COMP-000004",
+    "goal_id": "GOAL-EMP-000024-003"
+  },
+  {
+    "competency_id": "COMP-000005",
+    "goal_id": "GOAL-EMP-000025-003"
+  },
+  {
+    "competency_id": "COMP-000006",
+    "goal_id": "GOAL-EMP-000026-003"
+  },
+  {
+    "competency_id": "COMP-000007",
+    "goal_id": "GOAL-EMP-000027-003"
+  },
+  {
+    "competency_id": "COMP-000008",
+    "goal_id": "GOAL-EMP-000028-003"
+  },
+  {
+    "competency_id": "COMP-000009",
+    "goal_id": "GOAL-EMP-000029-003"
+  },
+  {
+    "competency_id": "COMP-000010",
+    "goal_id": "GOAL-EMP-000030-003"
+  },
+  {
+    "competency_id": "COMP-000011",
+    "goal_id": "GOAL-EMP-000001-004"
+  },
+  {
+    "competency_id": "COMP-000012",
+    "goal_id": "GOAL-EMP-000002-004"
+  },
+  {
+    "competency_id": "COMP-000013",
+    "goal_id": "GOAL-EMP-000003-004"
+  },
+  {
+    "competency_id": "COMP-000014",
+    "goal_id": "GOAL-EMP-000004-004"
+  },
+  {
+    "competency_id": "COMP-000015",
+    "goal_id": "GOAL-EMP-000005-004"
+  },
+  {
+    "competency_id": "COMP-000016",
+    "goal_id": "GOAL-EMP-000006-004"
+  },
+  {
+    "competency_id": "COMP-000017",
+    "goal_id": "GOAL-EMP-000007-004"
+  },
+  {
+    "competency_id": "COMP-000018",
+    "goal_id": "GOAL-EMP-000008-004"
+  },
+  {
+    "competency_id": "COMP-000019",
+    "goal_id": "GOAL-EMP-000009-004"
+  },
+  {
+    "competency_id": "COMP-000020",
+    "goal_id": "GOAL-EMP-000010-004"
+  }
+]

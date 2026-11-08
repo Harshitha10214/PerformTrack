@@ -1,0 +1,44 @@
+[
+  {
+    "issue_type": "goal_owner_mismatch",
+    "observed": {
+      "employee_id": "EMP-000001",
+      "owner_employee_id": "EMP-000002"
+    },
+    "record_id": "GOAL-EMP-000001-001"
+  },
+  {
+    "issue_type": "unjustified_progress_over_100",
+    "observed": {
+      "justification": null,
+      "progress_percent": "125.00"
+    },
+    "record_id": "GOAL-EMP-000002-001"
+  },
+  {
+    "issue_type": "invalid_reviewer_relationship",
+    "observed": {
+      "assigned_manager_id": "MGR-000002",
+      "employee_id": "EMP-000001",
+      "reviewer_manager_id": "MGR-000001"
+    },
+    "record_id": "REV-2026-000001"
+  },
+  {
+    "issue_type": "silent_edit_in_closed_cycle",
+    "observed": {
+      "cycle_status": "closed",
+      "has_audit_event": false,
+      "review_cycle_id": "CYCLE-2025-H1"
+    },
+    "record_id": "GOAL-EMP-000003-001"
+  },
+  {
+    "issue_type": "untraceable_feedback",
+    "observed": {
+      "author_employee_id": null,
+      "source_reference": null
+    },
+    "record_id": "FB-000001"
+  }
+]

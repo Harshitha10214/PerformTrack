@@ -1,0 +1,31 @@
+created_at,department,effective_from,effective_to,email,first_name,hire_date,id,job_title,last_name,manager_id,status,updated_at
+2026-11-06T12:00:00+00:00,Product,2020-10-01,,emp-000001@performtrack.example,Rohan,2020-10-01,EMP-000001,Analyst,Mehta0000,,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2015-12-01,,emp-000002@performtrack.example,Diya,2015-12-01,EMP-000002,Engineer,Patel0001,,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2024-02-01,,emp-000003@performtrack.example,Kabir,2024-02-01,EMP-000003,Product Manager,Nair0002,,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Operations,2022-01-01,,emp-000004@performtrack.example,Arjun,2022-01-01,EMP-000004,Engineer,Das0003,,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2015-01-01,,emp-000005@performtrack.example,Diya,2015-01-01,EMP-000005,Specialist,Nair0004,,leave,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Sales,2024-04-01,,emp-000006@performtrack.example,Sana,2024-04-01,EMP-000006,Engineer,Gupta0005,MGR-000001,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2021-02-01,,emp-000007@performtrack.example,Kavya,2021-02-01,EMP-000007,Lead,Menon0006,MGR-000002,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,People,2021-09-01,,emp-000008@performtrack.example,Kabir,2021-09-01,EMP-000008,Analyst,Patel0007,MGR-000003,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Sales,2023-04-01,,emp-000009@performtrack.example,Aarav,2023-04-01,EMP-000009,Analyst,Gupta0008,MGR-000004,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2022-08-01,,emp-000010@performtrack.example,Ananya,2022-08-01,EMP-000010,Designer,Patel0009,MGR-000005,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2024-07-01,,emp-000011@performtrack.example,Aarav,2024-07-01,EMP-000011,Analyst,Verma0010,MGR-000001,leave,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Sales,2017-05-01,,emp-000012@performtrack.example,Vihaan,2017-05-01,EMP-000012,Designer,Patel0011,MGR-000002,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Operations,2016-01-01,,emp-000013@performtrack.example,Rohan,2016-01-01,EMP-000013,Analyst,Patel0012,MGR-000003,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Sales,2021-09-01,,emp-000014@performtrack.example,Neha,2021-09-01,EMP-000014,Analyst,Singh0013,MGR-000004,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,People,2018-12-01,,emp-000015@performtrack.example,Sana,2018-12-01,EMP-000015,Designer,Verma0014,MGR-000005,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2021-09-01,,emp-000016@performtrack.example,Vihaan,2021-09-01,EMP-000016,Engineer,Das0015,MGR-000001,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2022-09-01,,emp-000017@performtrack.example,Rohan,2022-09-01,EMP-000017,Engineer,Menon0016,MGR-000002,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2022-12-01,,emp-000018@performtrack.example,Neha,2022-12-01,EMP-000018,Lead,Kapoor0017,MGR-000003,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2022-07-01,,emp-000019@performtrack.example,Diya,2022-07-01,EMP-000019,Specialist,Nair0018,MGR-000004,terminated,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2015-10-01,,emp-000020@performtrack.example,Kavya,2015-10-01,EMP-000020,Analyst,Das0019,MGR-000005,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,People,2015-06-01,,emp-000021@performtrack.example,Arjun,2015-06-01,EMP-000021,Analyst,Rao0020,MGR-000001,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Operations,2021-10-01,,emp-000022@performtrack.example,Reyansh,2021-10-01,EMP-000022,Product Manager,Reddy0021,MGR-000002,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2018-08-01,,emp-000023@performtrack.example,Kabir,2018-08-01,EMP-000023,Analyst,Malhotra0022,MGR-000003,inactive,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,People,2022-04-01,,emp-000024@performtrack.example,Diya,2022-04-01,EMP-000024,Specialist,Malhotra0023,MGR-000004,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2021-06-01,,emp-000025@performtrack.example,Rohan,2021-06-01,EMP-000025,Analyst,Patel0024,MGR-000005,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Engineering,2022-09-01,,emp-000026@performtrack.example,Meera,2022-09-01,EMP-000026,Engineer,Verma0025,MGR-000001,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,People,2017-12-01,,emp-000027@performtrack.example,Tara,2017-12-01,EMP-000027,Specialist,Verma0026,MGR-000002,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Product,2015-10-01,,emp-000028@performtrack.example,Meera,2015-10-01,EMP-000028,Product Manager,Nair0027,MGR-000003,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Operations,2023-08-01,,emp-000029@performtrack.example,Ananya,2023-08-01,EMP-000029,Product Manager,Malhotra0028,MGR-000004,active,2026-11-06T12:00:00+00:00
+2026-11-06T12:00:00+00:00,Operations,2016-03-01,,emp-000030@performtrack.example,Ananya,2016-03-01,EMP-000030,Lead,Reddy0029,MGR-000005,leave,2026-11-06T12:00:00+00:00
